@@ -25,13 +25,13 @@ menu:
   #     weight: 10
   after:
     - name: "Github"
-      url: "https://github.com/64bitpandas/amethyst"
+      url: "https://github.com/thluiz"
       weight: 10
 
 params:
 
-  name: Ben Cuan
-  title: 📓 Amethyst
+  name: Thiago Luiz Silva
+  title: 📓 Ensaios Sistêmicos
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
@@ -60,7 +60,7 @@ params:
   enableContextualBacklinks: true
 
   # whether to show a section of recent notes on the home page
-  enableRecentNotes: false
+  enableRecentNotes: true
 
   # whether to display an 'edit' button next to the last edited field
   # that links to github
@@ -70,7 +70,7 @@ params:
   enableMermaid: true
 
   # Link to your Github repo
-  GitHubLink: https://github.com/64bitpandas/amethyst
+  GitHubLink: https://github.com/institutojuliocamacho/systemic-essays
 
   # Search (WIP)
   search:
@@ -80,7 +80,7 @@ params:
 
   # Site description and title
   description:
-    Notes, hosted by bencuan
+    Notes, hosted by thluiz
 
   
   # Footer links
@@ -138,7 +138,7 @@ params:
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
-  BookTranslatedOnly: false
+  BookTranslatedOnly: true
 
   # Don't change this
   enableSPA: false
